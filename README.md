@@ -10,7 +10,7 @@ A sample readme for the Code Institute
 
 ## Contributers
 - Mark Kirwan <marco.kirwan@gmail.com>
-- 
+
 ---
 
 ## Licence & copyright
