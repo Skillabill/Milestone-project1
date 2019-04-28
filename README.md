@@ -14,3 +14,5 @@ A sample readme for the Code Institute
 ---
 
 ## Licence & copyright
+
+Mark Kirwan, Code Institute Student
