@@ -14,4 +14,3 @@ A sample readme for the Code Institute
 ---
 
 ## Licence & copyright
-
