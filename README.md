@@ -7,8 +7,42 @@ and the English actor and singer Davy Jones.
 
 ---
 
-## Contributers
+## UX
 - Mark Kirwan <marco.kirwan@gmail.com>
+
+---
+
+## Features
+- Mark Kirwan <marco.kirwan@gmail.com>
+
+### Existing Features
+- Mark Kirwan <marco.kirwan@gmail.com>
+
+---
+
+## Technologies Used
+- Mark Kirwan <marco.kirwan@gmail.com>
+
+---
+
+## Testing
+- Mark Kirwan <marco.kirwan@gmail.com>
+
+---
+
+## Deployment
+- Mark Kirwan <marco.kirwan@gmail.com>
+
+---
+
+## Credits
+- Mark Kirwan <marco.kirwan@gmail.com>
+
+### Content
+
+### Media
+
+### Acknowledgements
 
 ---
 
