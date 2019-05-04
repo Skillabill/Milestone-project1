@@ -1,4 +1,4 @@
-# Milestone Project 1
+# The Monkees
 
 **Version 1.0.0**
 
