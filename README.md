@@ -2,9 +2,8 @@
 
 **Version 1.0.0**
 
-Code and document samples for the writing a README tutorial.
-
-A sample readme for the Code Institute
+The Monkees - Are an American rock and pop band. Formed in Los Angeles in 1965 for a TV series 'The Monkees' which aired from 1966 - 1968. The musical acting quartet was composed of Americans Micky Dolenz, Micheal Nesmith, and Peter Tork,
+and the English actor and singer Davy Jones.
 
 ---
 
